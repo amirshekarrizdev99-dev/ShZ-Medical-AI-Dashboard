@@ -99,6 +99,23 @@ AI-generated content is informational and should not be considered a medical dia
 
 ---
 
+## Screenshots
+
+### Patients
+![Patients](docs-screenshots/patients.png)
+
+### Doctors
+![Doctors](docs-screenshots/doctors.png)
+
+### AI Assistant
+![AI Assistant](docs-screenshots/ai-assistant.png)
+
+### Knowledge Base
+![Knowledge Base](docs-screenshots/knowledge-base.png)
+
+### Analytics
+![Analytics](docs-screenshots/analytics.png)
+
 ## 🏗️ Architecture
 
 The project follows a feature-based architecture with separate frontend and backend applications.
